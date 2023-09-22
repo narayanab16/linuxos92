@@ -10,3 +10,6 @@ Oracle Virtual Box
 Putty Binary/MSI - as you choose , i prefer binary
 -  https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html
 
+LinuxOS92
+-  https://drive.google.com/file/d/1-r_z2GQb6M5H44kXDz0PDSV7qYjvsueS/view?usp=sharing
+
