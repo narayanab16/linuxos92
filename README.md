@@ -10,7 +10,7 @@ Oracle Virtual Box
 Putty Binary/MSI - as you choose , i prefer binary
 -  https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html
 
-LinuxOS92
+LinuxOS92 - download image ova and instructions follow from video
 -  https://drive.google.com/file/d/1-r_z2GQb6M5H44kXDz0PDSV7qYjvsueS/view?usp=sharing
 -  After import successful - select your import - settings - network - port forward
 -  See the start drop down then choose start headless - i would prefer
