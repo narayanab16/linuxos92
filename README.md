@@ -13,7 +13,7 @@ Putty Binary/MSI - as you choose , i prefer binary
 LinuxOS92 - download image ova and instructions follow from video
 -  https://drive.google.com/file/d/1-r_z2GQb6M5H44kXDz0PDSV7qYjvsueS/view?usp=sharing
 -  After import successful - select your image from left - settings - network - port forward
--  See the start drop down then choose start headless - i would prefer
+-  See the **start drop down** then choose **start headless(in background) - i would prefer**
 -  Connect with putty from Host (Windows) OS
 -  Asks for login provide user name followed by password
 -  Work on terminal shell
